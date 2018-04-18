@@ -1,0 +1,6 @@
+SQL Injection:
+	Login to another user's account
+	Change another user's password
+	Find other interesting SQL Injection attacks to share with the class tomorrow
+Fix SQL Injection vulnerabilities
+Fix potential XSS vulnerabilities
